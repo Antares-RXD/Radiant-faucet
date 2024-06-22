@@ -1,0 +1,4 @@
+node_modules/
+processor.db
+users.db
+package-lock.json

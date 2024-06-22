@@ -82,9 +82,9 @@ module.exports = {
 	}
 	,'faucet':{
 		'immediate':false
-		,'interval':720 //720 = 12 hours
+		,'interval':360 //360 = 6 hours
 		,'user_limit':10
-		,'payout':0.001
+		,'payout':0.05
 	},
 
 	'webServer': {
