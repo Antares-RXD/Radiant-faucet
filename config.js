@@ -58,7 +58,7 @@ module.exports = {
 	,'stylesheet': ""
 	,'title': "Radiant Faucet"
 	,'brand': "RXD Faucet"
-	,'copyright': '<a href="https://radiantblockchain.org">Radiant</a>'
+	,'copyright': '<a href="https://radiant4people.com">Radiant</a>'
 	,'coin': "Radiant"
 	,'symbol': "RXD"
 	,'pages':{
